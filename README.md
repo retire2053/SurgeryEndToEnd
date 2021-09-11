@@ -21,3 +21,5 @@ ACDF的中文翻译不一定统一，有很多种翻译方法
 - 颈（椎）前路减压植骨融合术
 
 1958年Cloward和Smith Robinson报道了颈前路手术减压的效果和方法。
+
+[简而言之的ACDF](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E7%AE%80%E8%80%8C%E8%A8%80%E4%B9%8B%E7%9A%84ACDF.md)
