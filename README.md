@@ -29,6 +29,7 @@ ACDF的中文翻译不一定统一，有很多种翻译方法
 ### [手术过程](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E6%89%8B%E6%9C%AF%E8%BF%87%E7%A8%8B.md)
 ### [术后处理](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E6%9C%AF%E5%90%8E%E5%A4%84%E7%90%86.md)
 ### [并发症管理](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E5%B9%B6%E5%8F%91%E7%97%87%E7%AE%A1%E7%90%86.md)
+### [手术注意事项](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E6%89%8B%E6%9C%AF%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md)
 ### [护理环节](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E6%8A%A4%E7%90%86%E7%8E%AF%E8%8A%82.md)
 ### [CAGE](https://github.com/retire2053/SurgeryEndToEnd/blob/main/CAGE.md)
 ### [手术器械](https://github.com/retire2053/SurgeryEndToEnd/blob/main/%E6%89%8B%E6%9C%AF%E5%99%A8%E6%A2%B0.md)
