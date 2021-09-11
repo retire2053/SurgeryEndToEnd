@@ -36,9 +36,9 @@
 * <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-8.png" width="50%" height="50%"/>
 * <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-9.png" width="50%" height="50%"/>
 * <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-10.png" width="50%" height="50%"/>
-* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-11.ng" width="50%" height="50%"/> 
-* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-12png" width="50%" height="50%"/>
-* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-13png" width="50%" height="50%"/>
+* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-11.png" width="50%" height="50%"/> 
+* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-12.png" width="50%" height="50%"/>
+* <img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-13.png" width="50%" height="50%"/>
 （影像来源病例讨论-唯医,allinmd）
 
 不同的辅助检查的发现问题的侧重点：
