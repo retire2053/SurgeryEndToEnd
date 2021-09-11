@@ -1,6 +1,6 @@
 # 简而言之的ACDF
-<img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-1.png" height="500px"/>
-![](https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-1.png){:height="500px"}
+<img src="https://github.com/retire2053/SurgeryEndToEnd/blob/main/resources/acdf-1.png" height="50%" width="50%"/>
+
 
 把大象放到冰箱里，只分三步：打开冰箱，把大象放到冰箱里，把冰箱门关上。
 
